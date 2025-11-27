@@ -1,0 +1,32 @@
+[
+  {
+    "word": "excerpt",
+    "part_of_speech": "verb",
+    "meaning": "take (a short extract) from a text",
+    "example_sentence": "Compare sample Rust and Python code excerpts to explore how the distinction in purpose and capabilities between statement-centric language and more expression-oriented strategies can lead to varying programming approaches."
+  },
+  {
+    "word": "designate",
+    "part_of_speech": "verb",
+    "meaning": "appoint (someone) to a specified office or post.",
+    "example_sentence": "(Common usecases for statement) Assigning a value to a variable without requiring computation of the value. For instance, x = 1 because it designates the value of x as a literal -- the integer 1 in this case -- rather than computing a new value and using the variable to store the result."
+  },
+  {
+    "word": "discourse",
+    "part_of_speech": "noun",
+    "meaning": "written or spoken communication or debate.",
+    "example_sentence": "The language of political discourse"
+  },
+  {
+    "word": "synthetic",
+    "part_of_speech": "adjective",
+    "meaning": "(of a substance) made by chemical synthesis, especially to imitate a natural product.",
+    "example_sentence": "synthetic rubber"
+  },
+  {
+    "word": "instinct",
+    "part_of_speech": "noun",
+    "meaning": "an innate, typically fixed pattern of behavior in animals in response to certain stimuli.",
+    "example_sentence": "that’s a great instinct to understand what’s going on under the hood."
+  }
+]
