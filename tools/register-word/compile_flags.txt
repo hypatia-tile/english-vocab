@@ -1,0 +1,4 @@
+-lsqlite3
+-L/usr/lib/
+-I./include
+
